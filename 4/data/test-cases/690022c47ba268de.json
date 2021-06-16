@@ -1,0 +1,70 @@
+{
+  "uid" : "690022c47ba268de",
+  "name" : "test_add_negative",
+  "fullName" : "test_mymath#test_add_negative",
+  "historyId" : "dcb8fa11fdff83e2daf0e792014a33fe",
+  "time" : {
+    "start" : 1623865119939,
+    "stop" : 1623865119939,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_mymath"
+  }, {
+    "name" : "host",
+    "value" : "fv-az39-835"
+  }, {
+    "name" : "thread",
+    "value" : "3153-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_mymath"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "53e319a8726fa028",
+        "reportUrl" : "https://nikoteszt.github.io/cicd-py-example/3//#testresult/53e319a8726fa028",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623531856696,
+          "stop" : 1623531856696,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "690022c47ba268de.json",
+  "parameterValues" : [ ]
+}
